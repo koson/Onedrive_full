@@ -10,6 +10,8 @@
 ![image](https://github.com/user-attachments/assets/986214c0-f44a-4035-89d4-7519a0dc589a)
 
 
+## มาดูกันว่ามันเกินที่ตรงไหน
+
 คลิกที่ไอคอนของ onedrive แล้วเลือก freeup space ในรูปนี้
 
 ![image](https://github.com/user-attachments/assets/dcb67908-6c4d-46ef-af80-8e7d26f8e6d1)
